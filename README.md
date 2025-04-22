@@ -29,7 +29,7 @@ Project Structure
 Setup Instructions
 ------------------
 1. Clone the repository
-   git clone https://github.com/yourusername/SignLanguageRecognition.git
+   git clone https://github.com/UlfetSancar/Real-Time-Sign-Language-Recognition.git
    cd SignLanguageRecognition
 
 2. Create a virtual environment (optional but recommended)
