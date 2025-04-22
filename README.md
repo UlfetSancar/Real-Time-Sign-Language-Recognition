@@ -68,8 +68,13 @@ Results Summary
 
 Acknowledgements
 ----------------
-- Built using MediaPipe and TensorFlow
-- Inspired by Nicknochnack’s Action Detection tutorial
+- Built using [MediaPipe](https://mediapipe.dev/) and [TensorFlow](https://www.tensorflow.org/)
+- Model structure and real-time architecture inspired by [Nicknochnack's Action Detection Tutorial](https://github.com/nicknochnack/ActionDetectionforSignLanguage)
+- UI and feature refinement influenced by guidance from:
+  - Siddique et al. (2023), *Real-Time Sign Language Translation Using Holistic Landmark Detection and LSTM*
+  - Amrutha & Prabu (2021), *Sign Language Recognition Using MediaPipe*
+  - Von Agris et al. (2008), *Recent developments in the recognition of continuous sign language using Hidden Markov Models*
+
 
 Future Work
 -----------
